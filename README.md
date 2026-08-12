@@ -4,10 +4,10 @@ configs for both admins and broadcasters
 # INSTALLATION:
 
 `broadcast.cfg`
-put in Counter-Strike Global Offensive/csgo/cfg
+put in `Counter-Strike Global Offensive/csgo/cfg`
 
 `fs26_gotv.cfg`
-put in debian/csgo/cfg of the server directory
+(IN SERVER FILES)put in `tournieupdated/csgo/cfg` or maybe its `tournie/csgo/cfg` no clue what they use on the servers.
 
 # LOADING
 
