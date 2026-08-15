@@ -34,7 +34,7 @@ team 2 - the team that starts as a t, but switches to ct in the other half
 
 commands:
 
-setteam`<n>`_`<team prefix>` - sets team depending on `<n>` and `<team prefix>` if n = 1 it will set team 1 if n = 2 it will set team 2, the prefix decides what logo flag and name that team will be e.g `setteam1_hz` would set team 1 to be named hazard.net, set their flag to Uzbekistan, and their logo to the hazard.net logo.
+setteam`<n>`_`<team prefix>` - sets team depending on `<n>` and `<team prefix>` if n = 1 it will set team 1 if n = 2 it will set team 2, the prefix decides what logo flag and name that team will be e.g `setteam1_hz` would set team 1 to be named hazard.net, set their flag to Kazakhstan, and their logo to the hazard.net logo.
 
 setscore`<n>`-`<n>`- sets score and the text that says "Match `<n>` of 3", e.g setscore1-1 would set the text near the top to say "Match 3 of 3" and then 1's on the side of that bar.
 
