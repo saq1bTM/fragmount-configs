@@ -39,5 +39,3 @@ setteam`<n>`_`<team prefix>` - sets team depending on `<n>` and `<team prefix>` 
 setscore`<n>`-`<n>`- sets score and the text that says "Match `<n>` of 3", e.g setscore1-1 would set the text near the top to say "Match 3 of 3" and then 1's on the side of that bar.
 
 setprediction_`<n>` - sets the prediction in the bar that shows for 5 seconds at the start of each round saying "HLTV Odds", so if `<n>` is set to 23, it would show a 23 percent prediction for team 1 and a 77 percent prediction for team 2.
-
-resetsettings - sets the settings like flags logos names predictions Match of 3 and others back to normal values in a PUG server.
